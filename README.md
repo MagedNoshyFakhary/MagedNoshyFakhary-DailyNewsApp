@@ -9,8 +9,10 @@ This program is originally based on NewsAPI which allows news from various sourc
 
 ## Built With
 * RestfulAPI(Retrofit,Http)
-* Coroutines 
+* Coroutines
+* Room DB
 * MVVM
+* Search View
 * Android jetpack  
 * Material Design 
 * DrakView
